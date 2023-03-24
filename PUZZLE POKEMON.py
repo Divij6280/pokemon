@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[ ]:
-
+#pokemon is an adventure game
+#play this beuty and improve your iq
 
 import time
 def game():
